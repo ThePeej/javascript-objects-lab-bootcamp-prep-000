@@ -4,5 +4,5 @@ function Objects() {
 
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  
+
 }
